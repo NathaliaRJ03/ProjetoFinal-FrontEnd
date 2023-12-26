@@ -1,0 +1,13 @@
+.formulario{
+    display: block;
+}
+
+.imagem{
+    /* width: 300px;
+    height: 100px; */
+    min-width: 100px;
+    max-width: 300px;
+    height: 50%;
+
+}
+

@@ -1,0 +1,288 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "produto": "Saída De Praia Camisa Em Viscose Com Abotoamento Frontal E Estampa Manchas",
+      "valor": "189",
+      "tamanho": "P - M - G",
+      "cor": " Verde/ Azul",
+      "foto": "https://img.lojasrenner.com.br/item/882170123/large/3.jpg"
+    },
+    {
+      "produto": "Kimono Alongado Em Laise Com Textura De Florzinhas",
+      "valor": "119",
+      "tamanho": "G - GG",
+      "cor": "Azul",
+      "foto": "https://img.lojasrenner.com.br/item/833452941/large/3.jpg",
+      "id": 2
+    },
+    {
+      "produto": "Chapéu De Praia Aba Grande Com Faixa Texturizada ",
+      "valor": "79",
+      "tamanho": "",
+      "cor": "Bege",
+      "foto": "https://img.lojasrenner.com.br/item/804062426/large/12.jpg",
+      "id": 3
+    },
+    {
+      "produto": "Biquíni Calcinha Hot Pants Texturizado Com Viés Contrastante",
+      "valor": "99",
+      "tamanho": "G - GG",
+      "cor": "Preto",
+      "foto": "https://img.lojasrenner.com.br/item/874864299/large/1.jpg",
+      "id": 4
+    },
+    {
+      "produto": "Biquíni Top Ombro Só Em Poliamida Com Detalhe Franzido No Ombro ",
+      "valor": "79",
+      "tamanho": "PP - P",
+      "cor": "Preto/ Branco",
+      "foto": "https://img.lojasrenner.com.br/item/858647606/large/3.jpg",
+      "id": 5
+    },
+    {
+      "produto": "Saída De Praia Camisa Em Viscose Com Abotoamento Frontal E Estampa Manchas",
+      "valor": "119",
+      "tamanho": "M - G - GG",
+      "cor": " Verde/ Azul",
+      "foto": "https://img.lojasrenner.com.br/item/882113428/large/3.jpg",
+      "id": 6
+    },
+    {
+      "produto": "Saia New Midi Em Linho Reta Com Botões E Estampa De Araras",
+      "valor": "159",
+      "tamanho": "P - M",
+      "cor": "Branco",
+      "foto": "https://img.lojasrenner.com.br/item/874857355/large/1.jpg",
+      "id": 7
+    },
+    {
+      "produto": "Biquíni Top Meia Taça Com Alça Regulável E Fechamento Nas Costas Preto",
+      "valor": "95",
+      "tamanho": "P - M",
+      "cor": "Preto",
+      "foto": "https://img.lojasrenner.com.br/item/841846166/large/3.jpg",
+      "id": 8
+    },
+    {
+      "produto": "Blusa De Alça Cropped Em Linho Dupla Face Estampa Tucanos E Com Amarração ",
+      "valor": "89",
+      "tamanho": "PP - P  - M",
+      "cor": "Preto",
+      "foto": "https://img.lojasrenner.com.br/item/837647691/large/3.jpg",
+      "id": 9
+    },
+    {
+      "produto": "Blusa Cropped Sem Manga Em Algodão Com Textura Canelada ",
+      "valor": "30",
+      "tamanho": "P - M",
+      "cor": "Preto",
+      "foto": "https://img.lojasrenner.com.br/item/723049211/large/3.jpg",
+      "id": 10
+    },
+    {
+      "produto": "Bolsa De Praia Grande Em Fibra De Papel Trançada Rosa",
+      "valor": "159",
+      "tamanho": "",
+      "cor": "Rosa",
+      "foto": "https://img.lojasrenner.com.br/item/819045418/large/2.jpg",
+      "id": 11
+    },
+    {
+      "produto": "Blusa De Alça Cropped Em Tricoline Com Bordados De Conchas E Lastex Nas Costas",
+      "valor": "139",
+      "tamanho": "P - M - G",
+      "cor": "Branco",
+      "foto": "https://img.lojasrenner.com.br/item/833449371/large/3.jpg",
+      "id": 12
+    },
+    {
+      "produto": "Maiô Em Poliamida Com Alças Detalhadas Em Pespontos Contrastantes",
+      "valor": "178",
+      "tamanho": "M - G - GG",
+      "cor": "Preto",
+      "foto": "https://img.lojasrenner.com.br/item/819647136/large/3.jpg",
+      "id": 13
+    },
+    {
+      "produto": "Macacão Longo Em Laise Com Bordado De Abacaxi E Bolsos Branco",
+      "valor": "250",
+      "tamanho": "M - G",
+      "cor": "Branco",
+      "foto": "https://img.lojasrenner.com.br/item/834048852/large/3.jpg",
+      "id": 14
+    },
+    {
+      "produto": "Bolsa De Praia Quadrada E Estruturada Com Alça Circular E Detalhes Vazados ",
+      "valor": "160",
+      "tamanho": "",
+      "cor": "Laranja/ Rosa",
+      "foto": "https://img.lojasrenner.com.br/item/814244442/large/2.jpg",
+      "id": 15
+    },
+    {
+      "produto": "Biquíni Top Cortininha Em Poliamida Com Detalhe Pespontado E Estampa Oncinha",
+      "valor": "89",
+      "tamanho": "P - M",
+      "cor": " Bege/ Preto",
+      "foto": "https://img.lojasrenner.com.br/item/819665908/large/3.jpg",
+      "id": 16
+    }
+  ],
+  "produtos": [
+    {
+      "produto": "Biquíni Top Camisetinha Com Tiras Finas Reguláveis",
+      "valor": 110,
+      "tamanho": " M",
+      "cor": " Verde",
+      "foto": "https://img.lojasrenner.com.br/item/882064611/large/3.jpg",
+      "id": 6
+    },
+    {
+      "produto": "Bolsa De Praia Grande Em Fibra De Papel Com Pontos De Tricô ",
+      "valor": 170,
+      "tamanho": "Laranja",
+      "cor": "",
+      "foto": "https://img.lojasrenner.com.br/item/823246001/large/2.jpg",
+      "id": 2
+    },
+    {
+      "produto": "Chapéu De Praia Com Aba Grande E Fivela ",
+      "valor": 79,
+      "tamanho": "",
+      "cor": "Bege",
+      "foto": "https://img.lojasrenner.com.br/item/806447311/large/12.jpg",
+      "id": 3
+    }
+  ],
+  "usuarios2": [
+    {
+      "produto": "Camisa Regular Em Voal Com Estampa De Folhagem",
+      "valor": "160",
+      "tamanho": "M -G - GG",
+      "cor": "Multicores",
+      "foto": "https://img.lojasrenner.com.br/item/879732033/large/3.jpg",
+      "id": 1
+    },
+    {
+      "produto": "Regata Boxy Em Crochê Com Textura Vazada ",
+      "valor": "120",
+      "tamanho": "P - M",
+      "cor": "Branca",
+      "foto": "https://img.lojasrenner.com.br/item/882154756/large/3.jpg",
+      "id": 2
+    },
+    {
+      "produto": "Regata Regular Em Meia Malha",
+      "valor": "80",
+      "tamanho": "M - G",
+      "cor": "Preta",
+      "foto": "https://img.lojasrenner.com.br/item/759646384/large/3.jpg",
+      "id": 3
+    },
+    {
+      "produto": "Bermuda De Banho Em Poliamida Com Cós Elástico ",
+      "valor": "89",
+      "tamanho": "P - M",
+      "cor": "Rosa Salmão",
+      "foto": "https://img.lojasrenner.com.br/item/655844896/large/2.jpg",
+      "id": 4
+    },
+    {
+      "produto": "Bermuda De Banho Em Poliamida Com Cós Elástico",
+      "valor": "55",
+      "tamanho": "PP - P - M",
+      "cor": " Verde Agua",
+      "foto": "https://img.lojasrenner.com.br/item/551647388/large/3.jpg",
+      "id": 5
+    },
+    {
+      "produto": "Bermuda De Banho Com Cós Fixo Com Blocos De Cor E Listras ",
+      "valor": "60",
+      "tamanho": "P -M",
+      "cor": "Azul",
+      "foto": "https://img.lojasrenner.com.br/item/600645911/large/1.jpg",
+      "id": 6
+    },
+    {
+      "produto": "Bermuda Com Cós Fixo E Estampa De Folhagem ",
+      "valor": "50",
+      "tamanho": "PP - P - M",
+      "cor": "Preta",
+      "foto": "https://img.lojasrenner.com.br/item/602395100/large/3.jpg",
+      "id": 7
+    },
+    {
+      "produto": "Sunga Com Estampa Tropical E Amarração Interna ",
+      "valor": "45",
+      "tamanho": "P - M ",
+      "cor": "Preto",
+      "foto": "https://img.lojasrenner.com.br/item/802247734/large/3.jpg",
+      "id": 8
+    },
+    {
+      "produto": "Bermuda De Banho Com Cordão E Bolsos ",
+      "valor": "99",
+      "tamanho": "P - M",
+      "cor": "Laranja",
+      "foto": "https://img.lojasrenner.com.br/item/777046219/large/2.jpg",
+      "id": 9
+    },
+    {
+      "produto": "Bermuda Paper Touch Com Estampa Floral ",
+      "valor": "45",
+      "tamanho": "PP - P - M",
+      "cor": "Preto",
+      "foto": "https://img.lojasrenner.com.br/item/603001344/large/3.jpg",
+      "id": 10
+    },
+    {
+      "produto": "Bermuda Paper Touch Em Algodão Com Estampa De Robozinhos ",
+      "valor": "45",
+      "tamanho": "PP - P - M",
+      "cor": "Multicores",
+      "foto": "https://img.lojasrenner.com.br/item/685248972/large/3.jpg",
+      "id": 11
+    },
+    {
+      "produto": "Bermuda De Banho Em Poliamida Com Cós Elástico ",
+      "valor": "90",
+      "tamanho": "P - M",
+      "cor": "Preto",
+      "foto": "https://img.lojasrenner.com.br/item/551078293/large/1.jpg",
+      "id": 12
+    },
+    {
+      "produto": "Regata Regular Em Meia Malha Com Textura De Furinhos ",
+      "valor": "90",
+      "tamanho": "P - M - G",
+      "cor": "Branca",
+      "foto": "https://img.lojasrenner.com.br/item/883847909/large/3.jpg",
+      "id": 14
+    },
+    {
+      "produto": "Regata Esportiva De Basquete Em Dry Fit Com Estampa New York 7 Preto",
+      "valor": "75",
+      "tamanho": "M - G",
+      "cor": "Preto",
+      "foto": "https://img.lojasrenner.com.br/item/835255167/large/3.jpg",
+      "id": 15
+    },
+    {
+      "produto": "Regata Machão Em Algodão Com Gola Redonda",
+      "valor": "60",
+      "tamanho": "P - M - G",
+      "cor": "Verde Oliva",
+      "foto": "https://img.lojasrenner.com.br/item/807048945/large/3.jpg",
+      "id": 16
+    },
+    {
+      "produto": "Regata Esportiva Em Dry Fit Com Estampa Blocos De Listras E Refletivos",
+      "valor": "70",
+      "tamanho": "M -G - GG",
+      "cor": "Azul",
+      "foto": "https://img.lojasrenner.com.br/item/834657113/large/3.jpg",
+      "id": 17
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+    justify-content: center;
+
+}
+.fto{
+    height: px;
+    width:  50px;
+    border: 20px;
+    border-color: black;
+}
+.botoes{
+    display: flex; 
+}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 17c72fd028415cd112c06ac359aeb1b78a263780
